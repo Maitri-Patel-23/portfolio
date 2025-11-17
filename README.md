@@ -1,25 +1,24 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hello! I'm Maitri Patel, a research analyst.
+Hello! I'm Maitri Patel, a research analyst at Center for Solar-Terrestrial Research. 
+I specialize in solar physics, with research spanning magnetohydrodynamic (MHD) simulations, solar flare analysis, and magnetic field modeling.
+My work focuses on understanding how complex magnetic structures in the solar atmosphere evolve and trigger energetic events such as solar flares and coronal mass ejections (CMEs). I aim to contribute to improved space-weather forecasting through computational modeling and analysis of observational data.
 
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## WHAT I DO
+3D MHD Simulations of eruptive solar flares using data-driven models and numerical solvers.
 
+Magnetic Field Extrapolation (NLFFF) to reconstruct coronal magnetic structures from HMI vector magnetograms.
 
-
-**- ✅ Data Analytics Consulting.**
-
-
-**- ✅ Staff Training & Development.**
-
+Computational Tools: Python, FORTRAN, VAPOR.
 
 <!--Section 2: List 3-4 key projects-->
 ## MY PORTFOLIO 
 
-*A glimpse of some of the projects I've been working on.*
+*A glimpse of my recent project I've been working on.*
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**1. 3D MHD Simulation of an X9 Solar Flare ( Oct 31, 2024)**
 ![image](1 anietie etuk data analytics car project.jpeg)
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
