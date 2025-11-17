@@ -20,7 +20,7 @@
 </head>
 <body>
 
-<h1>3D MHD Simulation & NLFFF Modeling<br>of the October 31, 2024 Solar Eruption</h1>
+<h1>Data-constrained Magnetohydrodynamic (MHD) Simulation of X9.0 Flare in Active Region 13842</h1>
 
 <p>
 This page provides an extended explanation of my workflow, methodology,
@@ -30,31 +30,17 @@ the MHD simulation that models the eruptive X9 flare.
 
 <h2>1. NLFFF Extrapolation Details</h2>
 <p>
-Write your detailed description here…  
-(e.g., What model you used, boundary conditions, force-free preprocessing, 
-magnetic twist, decay index profile, etc.)
+After pursuing my Master’s in Applied Physics from New Jersey Institute of Technology (NJIT), I gained significant exposure to solar astrophysics. At NJIT, I joined Prof. Satoshi Inoue’s research group ‘Solar Plasma’ in my last semester. Under his guidance, my project involved Data-constrained Magnetohydrodynamic (MHD) Simulation of X9.0 Flare in Active Region 13842, occurred on October 3, 2024, aimed to study the 3D dynamics of X9.0 flare from its initiation to the eruption. In this work, I first processed SDO/HMI vector magnetogram data to derive the photospheric boundary conditions and using it I reconstructed the coronal magnetic field through nonlinear force-free field (NLFFF) extrapolation with relaxation methods. Then I calculated the magnetic twist in the NLFFF model as an indicator of non-potentiality and the decay index to discuss the stability of the Torus Instability. Basically, The NLFFF result revealed the strongly sheared magnetic field lines, leading to the formation of MFR and eventually, the eruption.
 </p>
 
-<h2>2. Transition from Potential Field to NLFFF</h2>
+<h2>2. MHD Simulation Details</h2>
 <p>
-Describe the physics behind the movie:  
-• shear buildup  
-• current-sheet formation  
-• emergence of flux rope  
-• flux rope stability  
+To fully understand the stability of MFR, I conducted a data-constrained MHD simulation using the NLFFF model as the initial condition. This numerical model captures the time evolution of the magnetic field from flare initiation to eruption. To run these large-scale simulations efficiently, I used the Fortran-based MHD code and executed the computations on NJIT’s high-performance computing cluster. My simulations successfully reproduced the eruption of the X9.0 flare. I used the VAPOR software to visualize the 3D evolution of magnetic structures. My simulation results are consistent with several observational features from SDO/AIA, including tether-cutting reconnection, flare ribbons and remote brightening. This confirms the accuracy of my calculations and demonstrates my ability to independently execute a complete sequence of numerical simulations. By tracking the reconnection sites, I studied how tether-cutting reconnection beneath the MFR and magnetic flux emergence contribute to the onset of the eruption. This project has strengthened my skills in data-driven modeling, magnetic field analysis, and scientific visualization for understanding the physical processes behind solar activity.
 </p>
 
-<h2>3. Data-driven MHD Simulation</h2>
+<h2>3. Goal </h2>
 <p>
-Write details about how you used the NLFFF as initial condition,  
-numerical scheme, MHD solver, boundary driving, triggers for torus instability,  
-magnetic reconnection features, etc.
-</p>
-
-<h2>4. Science Interpretation</h2>
-<p>
-Explain your findings, significance, conclusions,  
-and what this means for space-weather forecasting.
+After graduating from NJIT, I joined NJIT’s Center for Solar-Terrestrial Research as a Research Analyst to investigate the critical physical condition responsible for X9.0 flare initiation. Although previous studies (Matsumoto et al. 2025) have shown that magnetic energy builds up in the Sun’s atmosphere over time, it is still unclear what exactly causes this stored energy to suddenly release. To address this question, I created five NLFFF and MHD simulation models at different times before the flare onset. Then I plotted magnetic twist versus total magnetic flux to examine how the magnetic energy distribution evolves over time. By analyzing the temporal evolution of the magnetic flux rope and reconnection region, my research aims to determine whether magnetic flux emergence or tether-cutting reconnection plays a dominant role in initiating the solar eruption. I hope to publish the findings of this study in The Astrophysical Journal. Moreover, I regularly present and discuss scientific papers during our Solar Plasma Group’s monthly journal club meetings. These discussions have enhanced my ability to evaluate research methods and identify open questions in the field.
 </p>
 
 <hr>
