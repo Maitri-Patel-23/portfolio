@@ -63,6 +63,15 @@ This model demonstrates how the transition from a stressed NLFFF structure to a 
 
 <div style="margin-top:40px;"></div>
 
+<div style="margin-top:20px;">
+  <a href="project-details.html" target="_blank" 
+     style="font-size:15px; color:#004aad; font-weight:600; text-decoration:none;">
+     ➤ Read more about this project
+  </a>
+</div>
+
+<div style="margin-top:50px;"></div>
+
 ## CONTACT DETAILS
 
 <table>
