@@ -20,6 +20,13 @@ Computational Tools: Python, FORTRAN, VAPOR.
 **1. 3D MHD Simulation of an X9 Solar Flare ( Oct 31, 2024)**
 ![image](five-nlfff.png)
 
+<div style="margin-top:10px; font-size:14px; line-height:1.5;">
+  <strong>Evolution of a Pre-Eruptive Flux Rope (NLFFF Reconstruction)</strong><br>
+  This figure shows the time-evolution of the magnetic flux rope in the active region during the 26 hours leading up to 
+  the X2.0 flare on 31 October 2024. Using NLFFF extrapolations, I reconstructed the 3D magnetic field and visualized changes 
+  in twist, height, and decay index to identify conditions leading to instability and eruption.
+</div>
+
 ## CONTACT DETAILS
 
 <table>
@@ -38,9 +45,3 @@ Computational Tools: Python, FORTRAN, VAPOR.
     </tr>
   </tbody>
 </table>
-
-   
-
-
-
-
