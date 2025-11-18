@@ -86,6 +86,10 @@ This model demonstrates how the transition from a stressed NLFFF structure to a 
     </tr>
     <tr>
       <td>⬇️</td>
+      <td><a href="https://docs.google.com/document/d/18kaMKbw1zmKkvScpPkL7EcMVUSzk_ZP2HFg0YbhZ-7E/edit?usp=sharing">CV</a></td>
+    </tr>
+    <tr>
+      <td>⬇️</td>
       <td><a href="https://github.com/Maitri-Patel-23">GitHub Profile</a></td>
     </tr>
   </tbody>
