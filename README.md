@@ -55,6 +55,7 @@ Computational Tools: Python, FORTRAN, VAPOR.
 Key features shown in the movie:
 Rising Flux Rope: The pre-eruptive magnetic structure loses equilibrium and rises rapidly.
 Torus Instability: The rope undergoes twisting and expansion as instabilities develop.
+Current Sheet Formation: A thin current sheet develops beneath the rising flux rope. As the rope stretches the overlying field, the current sheet becomes longer and more intense, acting as the main site of magnetic reconnection.
 Magnetic Reconnection: Field lines reconnect beneath the rope, forming flare loops.
 Eruptive Dynamics: The system ejects upward in a CME-like eruption, releasing stored magnetic energy.
 
