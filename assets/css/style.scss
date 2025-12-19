@@ -1,6 +1,5 @@
-/* Resize ONLY your profile photo (logo) */
 .site-logo img {
-  max-width: 140px;
+  max-width: 140px !important;
+  height: auto;
   border-radius: 50%;
 }
-
