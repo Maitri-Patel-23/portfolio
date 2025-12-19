@@ -57,6 +57,25 @@ Under Prof. Satoshi Inoue’s guidance, my project involved Data-constrained Mag
 To fully understand the stability of MFR, I conducted a data-constrained MHD simulation using the NLFFF model as the initial condition. This numerical model captures the time evolution of the magnetic field from flare initiation to eruption. To run these large-scale simulations efficiently, I used the Fortran-based MHD code and executed the computations on NJIT’s high-performance computing cluster. My simulations successfully reproduced the eruption of the X9.0 flare. I used the VAPOR software to visualize the 3D evolution of magnetic structures. My simulation results are consistent with several observational features from SDO/AIA, including tether-cutting reconnection, flare ribbons and remote brightening. This confirms the accuracy of my calculations and demonstrates my ability to independently execute a complete sequence of numerical simulations. By tracking the reconnection sites, I studied how tether-cutting reconnection beneath the MFR and magnetic flux emergence contribute to the onset of the eruption. This project has strengthened my skills in data-driven modeling, magnetic field analysis, and scientific visualization for understanding the physical processes behind solar activity.
 </p>
 
+<div style="margin-top:15px; font-size:14px; line-height:1.6; background:#f7f7f7; padding:12px; border-left:4px solid #004aad; border-radius:4px;">
+  <strong>Data-driven MHD Simulation of the Solar Eruption (Initialized from NLFFF)</strong><br>
+  This animation presents a magnetohydrodynamic (MHD) simulation that models the eruption of the flux rope observed before the X9.0 flare on 31 October 2024. The simulation uses the NLFFF magnetic field as the initial condition, allowing the system to evolve freely under the full MHD equations (numerical model).
+
+Key features shown in the movie:
+Rising Flux Rope: The pre-eruptive magnetic structure loses equilibrium and rises rapidly.
+Torus Instability: The rope undergoes twisting and expansion as instabilities develop.
+Current Sheet Formation: A thin current sheet develops beneath the rising flux rope. As the rope stretches the overlying field, the current sheet becomes longer and more intense, acting as the main site of magnetic reconnection.
+Magnetic Reconnection: Field lines reconnect beneath the rope, forming flare loops.
+Eruptive Dynamics: The system ejects upward in a CME-like eruption, releasing stored magnetic energy.
+
+This model demonstrates how the transition from a stressed NLFFF structure to a dynamic MHD eruption explains the onset and development of major solar flares.
+</div>
+
+  <video width="480" controls>
+  <source src="movie-mhd.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 <h2>3. Goal </h2>
 <p>
 After graduating from NJIT, I joined NJIT’s Center for Solar-Terrestrial Research as a Research Analyst to investigate the critical physical condition responsible for X9.0 flare initiation. Although previous studies (Matsumoto et al. 2025) have shown that magnetic energy builds up in the Sun’s atmosphere over time, it is still unclear what exactly causes this stored energy to suddenly release. To address this question, I created five NLFFF and MHD simulation models at different times before the flare onset. Then I plotted magnetic twist versus total magnetic flux to examine how the magnetic energy distribution evolves over time. By analyzing the temporal evolution of the magnetic flux rope and reconnection region, my research aims to determine whether magnetic flux emergence or tether-cutting reconnection plays a dominant role in initiating the solar eruption. I hope to publish the findings of this study in The Astrophysical Journal. Moreover, I regularly present and discuss scientific papers during our Solar Plasma Group’s monthly journal club meetings. These discussions have enhanced my ability to evaluate research methods and identify open questions in the field.
