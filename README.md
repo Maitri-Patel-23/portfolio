@@ -7,7 +7,7 @@ My work focuses on understanding how complex magnetic structures in the solar at
 
 *A glimpse of my recent project I've been working on.*
 
-**1. 3D MHD Simulation of an X9 Solar Flare ( Oct 31, 2024)**
+**1. 3D MHD Simulation of an X9 Solar Flare ( Oct 3, 2024)**
 <div style="margin-top:10px;"></div>
 
 <div style="margin-top:20px;">
