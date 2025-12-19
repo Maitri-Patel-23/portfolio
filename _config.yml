@@ -1,3 +1,8 @@
 title: Maitri Patel
 logo: my photo.jpg
+img {
+  max-width: 160px;   /* change size here */
+  height: auto;
+  border-radius: 50%; /* optional: circular photo */
+}
 theme: jekyll-theme-minimal
