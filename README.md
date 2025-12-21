@@ -29,7 +29,10 @@ My work focuses on understanding how complex magnetic structures in the solar at
   </a>
 </div>
 
-<div style="margin-top:50px;"></div>
+<div style="margin-top:50px; text-align:center;">
+  <img src="group-photo.jpg" alt="Group Photo" 
+       style="max-width:100%; height:auto; border-radius:8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+</div>
 
 ## CONTACT DETAILS
 
