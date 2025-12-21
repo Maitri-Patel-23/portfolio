@@ -19,6 +19,18 @@ My work focuses on understanding how complex magnetic structures in the solar at
 
 <div style="margin-top:50px;"></div>
 
+**2. Titov–Démoulin (TD) magnetic flux rope model**
+<div style="margin-top:10px;"></div>
+
+<div style="margin-top:20px;">
+  <a href="TD-MFR-details.html" target="_blank" 
+     style="font-size:15px; color:#004aad; font-weight:600; text-decoration:none;">
+     ➤ Read more about this project
+  </a>
+</div>
+
+<div style="margin-top:50px;"></div>
+
 ## CONTACT DETAILS
 
 <table>
