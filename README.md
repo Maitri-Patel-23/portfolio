@@ -32,6 +32,9 @@ My work focuses on understanding how complex magnetic structures in the solar at
 <div style="margin-top:50px; text-align:center;">
   <img src="group-photo.jpg" alt="Group Photo" 
        style="max-width:100%; height:auto; border-radius:8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <div style="margin-top:10px; font-weight:600; color:#004aad; font-size:16px;">
+    Solar Plasma Group, Center for Solar-Terrestrial Research
+  </div>
 </div>
 
 ## CONTACT DETAILS
