@@ -11,7 +11,7 @@ My work focuses on understanding how complex magnetic structures in the solar at
 <div style="margin-top:10px;"></div>
 
 <div style="margin-top:20px;">
-  <a href="project-details.html" target="_blank" 
+  <a href="MHD-simulation-details.html" target="_blank" 
      style="font-size:15px; color:#004aad; font-weight:600; text-decoration:none;">
      ➤ Read more about this project
   </a>
